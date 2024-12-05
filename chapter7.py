@@ -1,7 +1,7 @@
 # 导入必要的库
 import cv2  # OpenCV 用于图像处理的库
 import numpy as np  # Numpy 用于处理数组
-from chapter6 import stackImages
+from stcakImages import stackImages
 
 # 定义一个空函数，用作 TrackBar 的回调函数
 # TrackBar 的回调函数需要一个参数，但在这里我们不需要处理任何事情
